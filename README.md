@@ -77,7 +77,7 @@ The models are evaluated using the following metrics:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/akshat12-20/Sales_Prediction.git
+   git clone https://github.com/worldisconfusion/Sales-Prediction.git
 
 2. Navigate to the project directory:
     cd sales-forecasting
