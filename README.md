@@ -80,7 +80,7 @@ The models are evaluated using the following metrics:
    git clone https://github.com/worldisconfusion/Sales-Prediction.git
 
 2. Navigate to the project directory:
-    cd sales-forecasting
+    cd Sales-Prediction
 
 3. Install the required packages:
     pip install -r requirements.txt
